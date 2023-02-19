@@ -1,0 +1,10 @@
+.idea/
+
+*.iml
+*.class
+*.jar
+
+attach.dll
+
+agent-injector/target
+class-dumper-agent/target
