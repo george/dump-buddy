@@ -6,5 +6,6 @@
 
 attach.dll
 
+target/
 agent-injector/target
 class-dumper-agent/target
