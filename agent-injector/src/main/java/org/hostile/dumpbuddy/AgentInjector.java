@@ -63,6 +63,7 @@ public class AgentInjector {
             return;
         }
 
+        virtualMachine.detach();
         System.out.println("Successfully injected agent!");
     }
 }
